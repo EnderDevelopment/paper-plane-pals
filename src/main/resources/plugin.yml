@@ -1,0 +1,19 @@
+name: +1 Paper Plane
+version: 1.0.0
+main: com.enderdevelopment.plugin.Main
+author: EnderDevelopment
+description: A cartoony +1 paper plane game with breakable walls, eggs, and pets.
+api-version: "1.21"
+commands:
+  start:
+    description: Start the game.
+    usage: /start
+  throw:
+    description: Throw a paper plane.
+    usage: /throw
+  hatch:
+    description: Hatch an egg.
+    usage: /hatch
+  pet:
+    description: Interact with pets.
+    usage: /pet
